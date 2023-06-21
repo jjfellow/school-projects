@@ -1,0 +1,10 @@
+Planning for the filesystem
+Class structure:
+Filesystem contains blocks, has the functions to interact with the blocks
+	allocate entire 4226 block space on image creation
+blocks contain data, can be formatted however
+	3 varieties of blocks, first is a map, second is an i node, third is a data block
+mfs is the user interactable part that collects user input
+	the user interacts with the file system by getting files that exist from outside the filesystem image and by putting copies of them into the os's file system
+	can manage, save, open, close, and delete file system images
+	can also display how much disk space is free
