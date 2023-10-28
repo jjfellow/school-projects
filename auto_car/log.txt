@@ -1,0 +1,162 @@
+Position: [4, 4]
+Rotation: North
+
+Position: (4, 5)
+Rotation: North
+
+Position: (4, 6)
+Rotation: North
+
+Position: (4, 7)
+Rotation: North
+
+Position: (4, 8)
+Rotation: North
+
+Position: (4, 9)
+Rotation: North
+
+Position: (4, 10)
+Rotation: North
+
+Position: (4, 11)
+Rotation: North
+
+Position: (4, 12)
+Rotation: North
+
+Position: (4, 13)
+Rotation: North
+
+Position: (5, 13)
+Rotation: East
+
+Position: (6, 13)
+Rotation: East
+
+Position: (7, 13)
+Rotation: East
+
+Position: (8, 13)
+Rotation: East
+
+Position: (9, 13)
+Rotation: East
+
+Position: (10, 13)
+Rotation: East
+
+Position: (11, 13)
+Rotation: East
+
+Position: (11, 12)
+Rotation: South
+
+Position: (11, 11)
+Rotation: South
+
+Position: (11, 10)
+Rotation: South
+
+Position: (11, 9)
+Rotation: South
+
+Position: (11, 8)
+Rotation: South
+
+Position: (11, 7)
+Rotation: South
+
+Position: (11, 6)
+Rotation: South
+
+Position: (11, 5)
+Rotation: South
+
+Position: (12, 5)
+Rotation: East
+
+Position: (13, 5)
+Rotation: East
+
+Position: (14, 5)
+Rotation: East
+
+Position: (15, 5)
+Rotation: East
+
+Position: (16, 5)
+Rotation: East
+
+Position: (17, 5)
+Rotation: East
+
+Position: (17, 6)
+Rotation: North
+
+Position: (17, 7)
+Rotation: North
+
+Position: (17, 8)
+Rotation: North
+
+Position: (17, 9)
+Rotation: North
+
+Position: (17, 10)
+Rotation: North
+
+Position: (17, 11)
+Rotation: North
+
+Position: (17, 12)
+Rotation: North
+
+Position: (17, 13)
+Rotation: North
+
+Position: (17, 14)
+Rotation: North
+
+Position: (17, 15)
+Rotation: North
+
+Position: (17, 16)
+Rotation: North
+
+Position: (17, 17)
+Rotation: North
+
+Position: (18, 17)
+Rotation: East
+
+Position: (19, 17)
+Rotation: East
+
+Position: (20, 17)
+Rotation: East
+
+Position: (21, 17)
+Rotation: East
+
+Position: (22, 17)
+Rotation: East
+
+Position: (23, 17)
+Rotation: East
+
+Position: (23, 16)
+Rotation: South
+
+Position: (23, 15)
+Rotation: South
+
+Position: (23, 14)
+Rotation: South
+
+Position: (24, 14)
+Rotation: East
+
+Position: (25, 14)
+Rotation: East
+
