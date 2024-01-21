@@ -1,0 +1,7 @@
+---
+Category: Pharmacy
+LookFor:
+  - aspect: speed
+    weight: 40
+  - aspect: service
+    weight: 20
